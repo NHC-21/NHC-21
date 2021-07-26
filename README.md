@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="NHC-21-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
- ![Snake animation](https://github.com/NHC-21/NHC-21/blob/main/github-contribution-grid-snake.svg)
+ ![Snake_animation](https://github.com/NHC-21/NHC-21/blob/main/github-contribution-grid-snake.svg)
 </div>
  
  
