@@ -7,8 +7,13 @@
 
 ##  
 
-######  Language:
-<img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=PYTHON&logoColor=yellow&labelColor=3776AB" alt="PYTHON" />
-
+###### Languages:
+<div>
+ <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=PYTHON&logoColor=yellow&labelColor=3776AB" alt="PYTHON" />
+ <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=JAVASCRIPT&logoColor=black&labelColor=F7DF1E" alt="JAVASCRIPT" />
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&labelColor=E34F26" alt="HTML5" /> 
+ <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS3" /> 
+</div>
+ 
+ 
 ##
-   
