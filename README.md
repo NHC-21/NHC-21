@@ -14,9 +14,7 @@
 
 ###### Learning:
 <div>
- <img src="https://img.shields.io/badge/-RUBY-CC342D?logo=RUBY&logoColor=white&labelColor=CC342D" alt="RUBY" />
- <img src="https://img.shields.io/badge/-PERL-39457E?logo=PERL&logoColor=white&labelColor=39457E" alt="PERL" />
+ <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=PYTHON&logoColor=yellow&labelColor=3776AB" alt="PYTHON" />
 </div>
- 
- 
+  
 ##
